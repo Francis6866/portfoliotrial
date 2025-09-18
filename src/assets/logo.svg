@@ -1,0 +1,22 @@
+<!-- Iboloke Wordmark - save as iboloke-wordmark.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 120" width="200" height="120" role="img" aria-labelledby="title2 desc2">
+  <title id="title2">Iboloke wordmark logo</title>
+  <desc id="desc2">Minimal modern wordmark for Iboloke portfolio, with dot accent.</desc>
+
+  <!-- optional accent bar on left -->
+  <!-- <rect x="20" y="34" width="8" height="52" rx="3" fill="#efb84a #0b1020 "/> -->
+
+  <!-- name -->
+  <text x="0" y="80" font-family="Montserrat, Arial, sans-serif" font-weight="900" font-size="86" fill="#efb84a" letter-spacing="2">
+    Iboloke
+  </text>
+
+  <!-- dotted accent above 'i' -->
+  <circle cx="10" cy="6" r="6" fill="#efb84a"/>
+</svg>
+
+<!-- <rect x="0" y="34" width="8" height="52" ... />
+<text x="28" y="86" ...>Iboloke</text> -->
+
+<!-- <svg viewBox="20 0 620 120" ...> -->
+
